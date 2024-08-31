@@ -22,5 +22,5 @@ A Node.js project for world sport action task.
 ### Too start the application use
     ```bash
     npm run dev
-    or
-    npm start
+
+## Configuration
