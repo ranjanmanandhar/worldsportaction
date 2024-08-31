@@ -19,8 +19,8 @@ A Node.js project for world sport action task.
     npm install
 
 ## Usage
-### Too start the application use
-    ```bash
-    npm run dev
 
-## Configuration
+### Too start the application use
+   ```bash
+	npm run dev
+
